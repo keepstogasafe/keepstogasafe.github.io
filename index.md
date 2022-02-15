@@ -1,4 +1,10 @@
-# Keep Stoga Safe FAQ
+---
+layout: default
+---
 
-# When is the sit-in
-The administration has asked us to hold off until further discussion.
+# Keep Stoga Safe
+
+## FAQ
+
+> "When is the sit-in"
+The school administration has asked us to hold off until a later date, check back later here or on our insta `@stogasafe` for more info.
